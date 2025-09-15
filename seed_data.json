@@ -1,0 +1,14 @@
+{
+  "schedule_image_name": "",
+  "routes": {
+    "Terminal → Uni": {
+      "line": "11A",
+      "times": ["07:40"]
+    },
+    "Terminal → Casa": {
+      "line": "12A",
+      "times": ["14:10"]
+    }
+  },
+  "settings": { "theme": "auto" }
+}
